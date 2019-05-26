@@ -6,7 +6,7 @@ Spotfire does not allow for area plots, nor does it allow for flipped coordinate
 
 DepthPlot.dxp contains the actual spotfire dxp file. 
 
-###The R Script
+### The R Script
 Setting up libraries and supressing annoying waringings
 ```
  library(RinR)
