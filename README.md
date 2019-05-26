@@ -8,7 +8,11 @@ Spotfire does not allow for area plots, nor does it allow for flipped coordinate
   <img src="https://github.com/Preston5789/Spotfire-Depth-Plot-Module/blob/master/Depth_Plot_2.PNG" width="350" title="hover text">
 </p>
 
-DepthPlot.dxp contains the actual spotfire dxp file. 
+DepthPlot.dxp contains an example project using the depth plot module.
+
+DepthPlot.sfd contains the Spotfire data function for importing the module into your own project.
+
+Below is the source script:
 
 ### The R Script
 Setting up libraries and supressing annoying waringings
