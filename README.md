@@ -59,8 +59,14 @@ print(
 		), 
 		packages = 'ggplot2',
 		width = 220, height = 1200
-)
-
- 
- 
+) 
  ```
+## Built With
+
+* [ggplot2](https://ggplot2.tidyverse.org/) - Packages for plotting
+
+
+
+## Authors
+
+* **Preston Phillips** - [Preston5789](https://github.com/Preston5789)
