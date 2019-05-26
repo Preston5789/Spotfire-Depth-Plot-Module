@@ -28,7 +28,8 @@ options( RinR_R_FULL_PATH = PathToOpenSourceR )
 #
 #
 ```
-The graphing:
+graph is a binary output parameter that needs RGraph and print to convert the ggplot to a binary variable. There are two area graphs for the FFI and BFV. These are defined by the input variable. There is also a scatter plot that is defined by the markinput variable. These parameters can be selected in the 'edit parameters' menu. 
+
 ```
 #  Start of Graphics
 #
